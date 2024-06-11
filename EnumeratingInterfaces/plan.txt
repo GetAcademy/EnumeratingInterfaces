@@ -5,10 +5,11 @@
    - sentrale i C#
  - LINQ
    - extension methods
+   - builder pattern
 
 plan fremover: 
- - Dependency inversion 
- - Service klasser
+ - Dependency Inversion Principle
+ - Service klasser - Dependency Injection
  - Unit testing og mocking
 
  - Arv

@@ -1,0 +1,14 @@
+
+ - IEnumerable og IEnumerator
+   - to innebygde interfacer
+   - fine eksempler på interface
+   - sentrale i C#
+ - LINQ
+   - extension methods
+
+plan fremover: 
+ - Dependency inversion 
+ - Service klasser
+ - Unit testing og mocking
+
+ - Arv
